@@ -1,0 +1,95 @@
+.table_headder {  
+	font-family:		"Arial";
+	font-size:			10pt;
+	line-height:		12pt; 
+	font-weight:		bold; 
+	color:				#FFFFFF; 
+	background-color:	#CC0000;
+	vertical-align:		middle;
+	white-space:		nowrap;
+	text-align:			center
+}
+.table_item_w {
+	font-family:		"Arial";
+	font-size:			8pt;
+	line-height:		normal;
+	font-weight:		normal;
+	color:				#006666;
+	background-color:	#FFFFFF;
+	letter-spacing:		normal;
+	margin:				0;
+	border-width:		1px
+
+}
+.table_item_b {
+	font-family:		"Arial";
+	font-size:			8pt;	
+	line-height:		12pt; 
+	font-weight:		normal;
+	color:				#009999;
+	background-color:	#CCFFFF
+}
+/*--- style for "Edition column" ---*/
+
+
+.edit_no {
+	font-family:			"Arial";
+	line-height:			normal;
+	font-weight:			normal;
+	color:					#006666;
+	background-color:		#FFFFFF;
+	font-size:				10pt;
+	text-align:				center
+	
+}	
+
+/*--- style for "GS no." column ---*/
+
+
+.code_no {
+	font-family:			"Arial";
+	line-height:			normal;
+	font-weight:			normal;
+	color:					#006666;
+	background-color:		#FFFFFF;
+	white-space:			nowrap
+
+}
+
+/*--- style for "Name" column ---*/
+
+.gs_name	{
+	width:					230px;
+	border-width:			1px;
+	font-family:			"Arial";
+	line-height:			normal;
+	font-weight:			normal;
+	color:					#006666;
+	background-color:		#FFFFFF;
+	font-size:				10pt;
+
+}
+.product	{
+	font-family:		"Arial";
+	font-size:			10pt;
+	line-height:		12pt; 
+	font-weight:		bold; 
+	color:				#FFFFFF; 
+	background-color:	#CC0000;
+	vertical-align:		middle;
+	white-space:		nowrap;
+	text-align:			center
+	width:				80px;
+}
+.range	{
+	font-family:		"Arial";
+	font-size:			10pt;
+	line-height:		12pt; 
+	font-weight:		bold; 
+	color:				#FFFFFF; 
+	background-color:	#CC0000;
+	vertical-align:		middle;
+	white-space:		nowrap;
+	text-align:			center
+	width:				80px;
+}

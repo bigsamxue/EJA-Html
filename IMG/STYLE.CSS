@@ -1,0 +1,247 @@
+/*--- tag ---*/
+br{
+	line-height:		10pt;
+}
+
+/*--- common ---*/
+#tag1{
+	background-color:	#5C77F2;
+	color:				#ffffff;
+	font-size:			8pt;
+	position:			absolute;
+	left:				20px;
+	top:				77px;
+	width:				80px;
+	padding:			0px;
+	border:				0px;
+	visibility:			hidden;
+}
+#tag3{
+	background-color:	#5C77F2;
+	color:				#ffffff;
+	font-size:			8pt;
+	position:			absolute;
+	left:				212px;
+	top:				77px;
+	width:				122px;
+	padding:			0px;
+	border:				0px;
+	visibility:			hidden;
+}
+#tag2{
+	background-color:	#5C77F2;
+	color:				#ffffff;
+	font-size:			8pt;
+	position:			absolute;
+	left:				102px;
+	top:				77px;
+	width:				122px;
+	padding:			0px;
+	border:				0px;
+	visibility:			hidden;
+}
+#tag4{
+	background-color:	#5C77F2;
+	color:				#ffffff;
+	font-size:			8pt;
+	position:			absolute;
+	left:				289px;
+	top:				77px;
+	width:				122px;
+	padding:			0px;
+	border:				0px;
+	visibility:			hidden;
+}
+.contents_img{
+	text-align:			center;
+}
+.contents_caption{
+	font:				normal 9pt/11pt 'Arial', sans-serif;
+	color:				#000000;
+	margin-top:			3px;
+	text-align:			center;
+	vertical-align:		top;
+}
+.contents_heading_belt{
+	background-color:	#CC0000;
+	color:				#FFFFFF;
+	font:				normal bold 10pt/12pt 'Arial', sans-serif;
+	padding:			3px;
+	text-align:			left;
+	vertical-align:		middle;
+}
+.contents_outerFrame_forTxt{
+	border:				solid 1px #CC0000;
+	padding:			10px;
+}
+.contents_outerFrame_forTable{
+	border-top:			none;
+	border-right:		solid 1px #CC0000;
+	border-bottom:		solid 1px #CC0000;
+	border-left:		solid 1px #CC0000;
+	padding:			10px;
+	width:				100%;
+}
+.contents_heading_belt_blue{
+	background-color:	#336699;
+	color:				#FFFFFF;
+	font:				normal bold 10pt/12pt 'Arial', sans-serif;
+	padding:			3px;
+	text-align:			left;
+	vertical-align:		middle;
+}
+.contents_outerFrame_forTxt_blue{
+	border:				solid 1px #336699;
+	padding:			10px;
+}
+
+.contents_heading{
+	color:				#CC0000;
+	font:				normal bold 13pt/15pt 'Arial', sans-serif;
+	text-align:			left
+
+}
+.contents_heading_bar{
+	background:			#CC0000;
+	filter:				Alpha(StartX=0,StartY=0,FinishX=100,FinishY=0,Style=1);
+	line-height:		2px;
+	margin-bottom:		3px;
+	width:				100%;
+}
+.contents_lead{
+	color:				#5B779E;
+	font:				normal bold 10pt/12pt 'Arial', sans-serif;
+	margin-bottom:		15px;
+	text-align:			left;
+}
+.contents_txt_large{
+	color:				#336666;
+	font:				normal bold 9pt/11pt 'Arial', sans-serif;
+	margin-bottom:		3px;
+	text-align:			left;
+}
+.contents_txt_large a{
+	color:				#336666;
+}
+.contents_txt_small{
+	color:				#336666;
+	font:				normal normal 8pt/10pt 'Arial', sans-serif;
+	text-align:			left;
+}
+.contents_list_large{
+	color:				#336666;
+	font:				normal bold 9pt/11pt 'Arial', sans-serif;
+	margin:				8px 0px 0px 24px;
+	text-align:			left;
+}
+.contents_list_small{
+	color:				#336666;
+	font:				normal normal 8pt/10pt 'Arial', sans-serif;
+	margin:				1px 0px 0px 25px;
+	text-align:			left;
+}
+.contents_menu{
+	margin:				5px 0px 5px 0px;
+}
+.link_box{
+	border:				0;
+	padding:			0;
+	margin:				0
+}
+/*--- introduction ---*/
+.release_large{
+	color:				#FF6600;
+	font:				normal bold 10pt/12pt 'Arial', sans-serif;
+	margin-bottom:		3px;
+}
+.release_small{
+	color:				#336666;
+	font:				normal normal 9pt/12pt 'Arial', sans-serif;
+	margin-bottom:		3px;
+}
+.release_small a{
+	color:				#FF6600;
+}
+.company_name{
+	border-bottom:		solid 1px #000000;
+	color:				#000000;
+	font:				normal bold 9pt/13pt 'Arial', sans-serif;
+	text-align:			left;
+}
+.company_presentation{
+	font:				normal normal 8pt/13pt 'Arial', sans-serif;
+	color:				#000000;
+	text-align:			left;
+}
+
+/*--- migration ---*/
+.step{
+	color:				#336666;
+	border-bottom:		solid 1px #999999;
+	font:				normal normal 12pt/14pt 'Arial', sans-serif;
+	padding-bottom:		10px;
+	margin-bottom:		10px;
+	text-align:			right;
+}
+.step a{
+	color:				#FF6600;
+	font:				normal bold 12pt/14pt 'Arial', sans-serif;
+}
+.step_title{
+	margin-bottom:		5px;
+}
+
+/*--- What's NewÅANews&Event---*/
+a.external_link{
+	color:				Blue;
+	font:				normal normal 10pt 'Arial', sans-serif;
+	text-decoration:	Underline;
+}
+.index_heading{
+	font:				normal bold 10pt/12pt 'Arial', sans-serif;
+	color:				#66cdaa;
+}
+.index_txt{
+	font:				normal normal 9pt/11pt 'Arial', sans-serif;
+	color:				#336666;
+}
+.index_txt a{
+	font-weight:		bold;
+	color:				#336666;
+}
+.table_item_belt{ 
+	background-color:	#ccffff; 
+	color:				#336666;
+	padding:			3px;
+	font:				normal 11pt/15pt 'Arial', sans-serif;
+	text-align:			left;
+	vertical-align:		middle;
+}
+.table_heading_belt{
+	background:			#CC0000;
+	color:				#FFFFFF;
+	padding:			3px;
+	font:				bold 10pt/12pt 'Arial', sans-serif;
+	text-align:			center;
+	vertical-align:		middle;
+}
+
+.page_title			{
+	vertical-align:		middle;
+	border-style:		none;
+	margin:				10 0 2 0
+
+}
+.return_top			{
+	font:				normal normal 8pt/11pt 'Arial', sans-serif;
+	vertical-align:		bottom;
+	border-style:		none;
+	margin:				8 0 0 0
+}
+.rightside			{
+	text-align:			right
+}
+
+.edition_margin		{
+	margin:				0 0 0 0;
+}
